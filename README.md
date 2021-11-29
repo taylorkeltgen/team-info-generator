@@ -48,9 +48,7 @@
 
 ## License:
 
-![badge]()
-
-- [undefined Licensing Info]()
+* N/A 
 
 ## How to Contribute to the project:
 
